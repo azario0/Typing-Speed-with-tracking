@@ -236,6 +236,10 @@ Feel free to submit issues and enhancement requests!
 3. Test thoroughly with both GUI and web components
 4. Submit a pull request with a clear description
 
+## Tutorial
+
+https://softwarejournal.blog/blog/typing-speed-tracker-tkinter-flask-chartjs/
+
 ## 📜 License
 
 This project is open source and available for personal and educational use.
